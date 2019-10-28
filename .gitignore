@@ -6,3 +6,4 @@ node_modules
 *.dat
 .DS_Store
 node/config/default.json
+node/ngrok
