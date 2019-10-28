@@ -1,0 +1,7 @@
+{
+    "appSecret": "token_here",
+    "pageAccessToken": "token_here",
+    "validationToken": "token_here",
+    ...
+    "serverURL": "to_be_set_manually" # LAST LINE WITHOUT COMMA
+}
