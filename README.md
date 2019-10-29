@@ -9,5 +9,6 @@ I recommend you to use ngrok to expose your local web server to the internet for
 
 Don't forget to install MongoDB (npm install mongodb) and Watson Developer Cloud (npm install watson-developer-cloud).
 
-app.js -> Initial Facebook code (default)
-app2.js -> Lenin's code representing the chatbot used in his PhD
+node/app.js -> Initial Facebook code (default)
+
+node/app2.js -> Lenin's code representing the chatbot used in his PhD
